@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/adchitects/static/css/main.c3ba70a1.css",
-    "main.js": "/adchitects/static/js/main.5d5aa6fc.js",
+    "main.css": "/adchitects/static/css/main.6dee1345.css",
+    "main.js": "/adchitects/static/js/main.d48dceac.js",
     "static/js/787.ae5161a8.chunk.js": "/adchitects/static/js/787.ae5161a8.chunk.js",
     "static/media/case-zytara.webp": "/adchitects/static/media/case-zytara.65e96eeb6864e535c362.webp",
     "static/media/imgtwofotter.webp": "/adchitects/static/media/imgtwofotter.dfd17d81820cd4ca2c21.webp",
@@ -15,12 +15,12 @@
     "static/media/logo-lumatax.svg": "/adchitects/static/media/logo-lumatax.91a69aea56cd4b10798b2f1d89ea02c8.svg",
     "static/media/tkxel-logo.svg": "/adchitects/static/media/tkxel-logo.6fa295044736d874639fd545cdb34107.svg",
     "index.html": "/adchitects/index.html",
-    "main.c3ba70a1.css.map": "/adchitects/static/css/main.c3ba70a1.css.map",
-    "main.5d5aa6fc.js.map": "/adchitects/static/js/main.5d5aa6fc.js.map",
+    "main.6dee1345.css.map": "/adchitects/static/css/main.6dee1345.css.map",
+    "main.d48dceac.js.map": "/adchitects/static/js/main.d48dceac.js.map",
     "787.ae5161a8.chunk.js.map": "/adchitects/static/js/787.ae5161a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3ba70a1.css",
-    "static/js/main.5d5aa6fc.js"
+    "static/css/main.6dee1345.css",
+    "static/js/main.d48dceac.js"
   ]
 }
